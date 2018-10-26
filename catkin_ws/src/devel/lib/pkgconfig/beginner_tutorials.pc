@@ -1,8 +1,0 @@
-prefix=/home/meshari/catkin_ws/src/devel
-
-Name: beginner_tutorials
-Description: Description of beginner_tutorials
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/meshari/catkin_ws/src/devel/lib 
-Requires: 
